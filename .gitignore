@@ -1,0 +1,9 @@
+assets/*
+!assets/.gitkeep
+be/*
+!be/.gitkeep
+conf/*
+!conf/.gitkeep
+fe/*
+!fe/.gitkeep
+
